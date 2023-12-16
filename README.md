@@ -1,1 +1,1 @@
-# tech1101--web-and-internet-fundamentals--finialproject
+# tech1101--web-and-internet-fundamentals--finalproject
